@@ -1,0 +1,9 @@
+name: land-tax-analysis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - geopandas
+  - plotly
+  - contextily
